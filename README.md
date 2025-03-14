@@ -1,4 +1,4 @@
-# gender_pay_gap &nbsp; :woman: :moneybag: :man:
+# Analysis of gender pay gap data &nbsp; :woman: :moneybag: :man:
 
 This repo is for analysis and visualisations from the [the gender paygap service](https://gender-pay-gap.service.gov.uk/) data releases.
 
